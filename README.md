@@ -1,2 +1,2 @@
 # The-Spark-Foundation-Internship
-Data Science and business Analytics
+This Repository Contains tasks performed for Data Science and business Analytics internship at sparks foundation.
